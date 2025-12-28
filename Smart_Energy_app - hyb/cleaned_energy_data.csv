@@ -1,0 +1,217 @@
+State,Household_Size,Monthly_Income,Appliance_Count,Avg_Daily_Usage_Hours,Monthly_Energy_Consumption
+Karnataka,3,25000,8,5,120
+Karnataka,4,30000,10,6,150
+Karnataka,5,45000,12,7,180
+Karnataka,2,20000,6,4,95
+Karnataka,6,60000,15,8,220
+Karnataka,3,28000,9,5,130
+Karnataka,4,35000,11,6,160
+Karnataka,5,50000,14,7,190
+Karnataka,3,27000,8,5,125
+Karnataka,4,32000,10,6,155
+Karnataka,5,48000,13,7,185
+Karnataka,6,62000,16,8,230
+Maharashtra,3,30000,9,5,135
+Maharashtra,4,36000,11,6,165
+Maharashtra,5,52000,14,7,195
+Maharashtra,2,18000,5,4,85
+Maharashtra,6,65000,16,8,240
+Maharashtra,3,31000,9,5,138
+Maharashtra,4,37000,12,6,170
+Maharashtra,5,54000,14,7,200
+Maharashtra,3,29000,8,5,128
+Maharashtra,4,34000,10,6,158
+Maharashtra,5,51000,13,7,188
+Maharashtra,6,68000,17,8,250
+Tamil Nadu,3,26000,8,5,122
+Tamil Nadu,4,33000,11,6,162
+Tamil Nadu,5,48000,13,7,190
+Tamil Nadu,2,17000,5,4,82
+Tamil Nadu,6,64000,16,8,238
+Tamil Nadu,3,27500,8,5,127
+Tamil Nadu,4,35500,10,6,157
+Tamil Nadu,5,50000,14,7,198
+Tamil Nadu,3,26500,8,5,124
+Tamil Nadu,4,34500,11,6,162
+Tamil Nadu,5,47000,12,7,182
+Tamil Nadu,6,69000,17,8,248
+Telangana,3,28000,9,5,132
+Telangana,4,34000,11,6,160
+Telangana,5,49000,13,7,188
+Telangana,2,21000,6,4,92
+Telangana,6,70000,17,8,255
+Telangana,3,29500,9,5,136
+Telangana,4,35500,12,6,168
+Telangana,5,53000,14,7,205
+Telangana,3,28500,8,5,130
+Telangana,4,36500,10,6,158
+Telangana,5,52000,13,7,195
+Telangana,6,71000,18,8,260
+Delhi,3,35000,10,6,155
+Delhi,4,42000,12,7,185
+Delhi,5,60000,15,8,230
+Delhi,2,25000,7,5,110
+Delhi,6,80000,18,9,280
+Delhi,3,36000,10,6,158
+Delhi,4,43000,12,7,190
+Delhi,5,62000,15,8,235
+Delhi,3,34000,9,6,150
+Delhi,4,41000,11,7,178
+Delhi,5,58000,14,8,220
+Delhi,6,82000,19,9,290
+Gujarat,3,27000,8,5,125
+Gujarat,4,33000,10,6,158
+Gujarat,5,48000,12,7,190
+Gujarat,2,20000,6,4,95
+Gujarat,6,65000,16,8,240
+Gujarat,3,28500,9,5,132
+Gujarat,4,35000,11,6,165
+Gujarat,5,50000,14,7,205
+Gujarat,3,29500,8,5,130
+Gujarat,4,36000,10,6,160
+Gujarat,5,52000,13,7,195
+Gujarat,6,67000,17,8,250
+Kerala,3,26000,8,5,122
+Kerala,4,31000,10,6,150
+Kerala,5,45000,12,7,180
+Kerala,2,18000,5,4,85
+Kerala,6,62000,15,8,220
+Kerala,3,27500,9,5,130
+Kerala,4,33000,11,6,160
+Kerala,5,50000,14,7,200
+Kerala,3,26500,8,5,125
+Kerala,4,34500,10,6,155
+Kerala,5,49000,13,7,188
+Kerala,6,66000,16,8,240
+Rajasthan,3,24000,7,5,115
+Rajasthan,4,30000,9,6,145
+Rajasthan,5,42000,11,7,175
+Rajasthan,2,16000,5,4,80
+Rajasthan,6,60000,15,8,220
+Rajasthan,3,25500,8,5,120
+Rajasthan,4,31000,10,6,150
+Rajasthan,5,45000,13,7,185
+Rajasthan,3,24800,7,5,118
+Rajasthan,4,32000,11,6,160
+Rajasthan,5,43000,12,7,178
+Rajasthan,6,59000,15,8,215
+Punjab,3,28000,9,5,132
+Punjab,4,35000,11,6,162
+Punjab,5,50000,14,7,205
+Punjab,2,20000,6,4,95
+Punjab,6,70000,17,8,255
+Punjab,3,29000,9,5,135
+Punjab,4,36000,12,6,170
+Punjab,5,52000,15,7,210
+Punjab,3,27500,8,5,128
+Punjab,4,34000,10,6,158
+Punjab,5,51000,13,7,198
+Punjab,6,72000,18,8,265
+Haryana,3,27000,8,5,125
+Haryana,4,33000,10,6,158
+Haryana,5,50000,14,7,205
+Haryana,2,21000,6,4,90
+Haryana,6,68000,16,8,245
+Haryana,3,28500,9,5,132
+Haryana,4,35000,11,6,165
+Haryana,5,52000,14,7,200
+Haryana,3,29500,8,5,130
+Haryana,4,36000,10,6,160
+Haryana,5,53000,13,7,198
+Haryana,6,70000,17,8,250
+Odisha,3,23000,7,5,115
+Odisha,4,30000,9,6,145
+Odisha,5,42000,12,7,180
+Odisha,2,18000,5,4,80
+Odisha,6,65000,16,8,240
+Odisha,3,25000,8,5,125
+Odisha,4,33000,11,6,160
+Odisha,5,48000,13,7,190
+Odisha,3,26500,8,5,128
+Odisha,4,34500,10,6,158
+Odisha,5,47000,12,7,182
+Odisha,6,68000,17,8,250
+West Bengal,3,28000,9,5,132
+West Bengal,4,35000,11,6,165
+West Bengal,5,50000,14,7,200
+West Bengal,2,19000,5,4,85
+West Bengal,6,70000,17,8,255
+West Bengal,3,29500,9,5,136
+West Bengal,4,36500,12,6,170
+West Bengal,5,53000,14,7,205
+West Bengal,3,28500,8,5,130
+West Bengal,4,36000,10,6,160
+West Bengal,5,52000,13,7,195
+West Bengal,6,71000,18,8,260
+Bihar,3,22000,7,5,110
+Bihar,4,28000,9,6,145
+Bihar,5,45000,13,7,190
+Bihar,2,17000,5,4,75
+Bihar,6,62000,15,8,230
+Bihar,3,26000,8,5,130
+Bihar,4,33000,10,6,160
+Bihar,5,50000,14,7,200
+Bihar,3,24500,8,5,120
+Bihar,4,32000,10,6,155
+Bihar,5,48000,12,7,185
+Bihar,6,67000,16,8,245
+Madhya Pradesh,3,25000,8,5,125
+Madhya Pradesh,4,32000,10,6,160
+Madhya Pradesh,5,47000,13,7,190
+Madhya Pradesh,2,18000,5,4,85
+Madhya Pradesh,6,65000,16,8,240
+Madhya Pradesh,3,27000,9,5,132
+Madhya Pradesh,4,35000,11,6,165
+Madhya Pradesh,5,52000,14,7,200
+Madhya Pradesh,3,29000,8,5,130
+Madhya Pradesh,4,36000,10,6,160
+Madhya Pradesh,5,53000,13,7,198
+Madhya Pradesh,6,70000,17,8,250
+Assam,3,24000,7,5,115
+Assam,4,30000,9,6,145
+Assam,5,43000,12,7,185
+Assam,2,17000,5,4,80
+Assam,6,62000,15,8,230
+Assam,3,26000,8,5,130
+Assam,4,33000,10,6,160
+Assam,5,50000,14,7,200
+Assam,3,25000,8,5,125
+Assam,4,34000,10,6,160
+Assam,5,48000,12,7,185
+Assam,6,67000,16,8,245
+Andhra Pradesh,3,27000,8,5,125
+Andhra Pradesh,4,33000,10,6,158
+Andhra Pradesh,5,50000,14,7,205
+Andhra Pradesh,2,21000,6,4,90
+Andhra Pradesh,6,68000,16,8,245
+Andhra Pradesh,3,28500,9,5,132
+Andhra Pradesh,4,35000,11,6,165
+Andhra Pradesh,5,52000,14,7,200
+Andhra Pradesh,3,29500,8,5,130
+Andhra Pradesh,4,36000,10,6,160
+Andhra Pradesh,5,53000,13,7,198
+Andhra Pradesh,6,70000,17,8,250
+Jharkhand,3,23000,7,5,115
+Jharkhand,4,30000,9,6,145
+Jharkhand,5,42000,12,7,180
+Jharkhand,2,18000,5,4,80
+Jharkhand,6,65000,16,8,240
+Jharkhand,3,25000,8,5,125
+Jharkhand,4,33000,11,6,160
+Jharkhand,5,48000,13,7,190
+Jharkhand,3,26500,8,5,128
+Jharkhand,4,34500,10,6,158
+Jharkhand,5,47000,12,7,182
+Jharkhand,6,68000,17,8,250
+Himachal Pradesh,3,28000,9,5,132
+Himachal Pradesh,4,35000,11,6,165
+Himachal Pradesh,5,50000,14,7,200
+Himachal Pradesh,2,19000,5,4,85
+Himachal Pradesh,6,70000,17,8,255
+Himachal Pradesh,3,29500,9,5,136
+Himachal Pradesh,4,36500,12,6,170
+Himachal Pradesh,5,53000,14,7,205
+Himachal Pradesh,3,28500,8,5,130
+Himachal Pradesh,4,36000,10,6,160
+Himachal Pradesh,5,52000,13,7,195
+Himachal Pradesh,6,71000,18,8,260

@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Batch Energy Prediction Statistics</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+    <style>
+        table {
+            border-collapse: collapse;
+            width: 100%;
+            margin-top: 15px;
+        }
+        th, td {
+            border: 1px solid #ccc;
+            padding: 8px;
+            text-align: center;
+        }
+        th {
+            background-color: #f2f2f2;
+        }
+        h2, h3 {
+            color: #2c3e50;
+        }
+        .section {
+            margin-top: 30px;
+        }
+        .download-btn {
+            margin-top: 20px;
+            padding: 10px 15px;
+            background-color: #0080ff;
+            color: white;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+        }
+        .download-btn:hover {
+            background-color: #005fcc;
+        }
+    </style>
+</head>
+
+<body>
+
+<div class="container">
+
+    <h2>Batch Energy Prediction Results</h2>
+
+    <!-- ================= TABLE ================= -->
+    <div class="section">
+        <h3>Predicted Output Table (Each Household)</h3>
+        <div style="overflow-x:auto;">
+            {{ table | safe }}
+        </div>
+    </div>
+
+    <!-- ================= ENERGY BAR GRAPH ================= -->
+    <div class="section">
+        <h3>Predicted Energy Consumption (Bar Graph)</h3>
+        <img src="{{ url_for('static', filename=energy_chart) }}" width="100%">
+    </div>
+
+    <!-- ================= CO2 BAR GRAPH ================= -->
+    <div class="section">
+        <h3>CO₂ Emission per Household (Bar Graph)</h3>
+        <img src="{{ url_for('static', filename=co2_chart) }}" width="100%">
+    </div>
+
+    <!-- ================= DOWNLOAD ================= -->
+    <div class="section">
+        <a href="{{ url_for('static', filename='batch_prediction_output.csv') }}">
+            <button class="download-btn">
+                Download Batch Prediction CSV
+            </button>
+        </a>
+    </div>
+
+</div>
+
+</body>
+</html>

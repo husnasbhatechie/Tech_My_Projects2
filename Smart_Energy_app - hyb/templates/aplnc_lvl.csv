@@ -1,0 +1,12 @@
+Household_ID,Appliance_Type,Power_kW,Avg_Daily_Usage_Hours,Days_Per_Month,Household_Size,Monthly_Income,Appliance_Count
+H1,AC,1.5,5,30,4,40000,8
+H1,Fridge,0.2,24,30,4,40000,8
+H1,TV,0.1,6,30,4,40000,8
+H2,AC,1.2,6,30,3,35000,6
+H2,Fridge,0.2,24,30,3,35000,6
+H2,Washing Machine,0.5,2,15,3,35000,6
+H3,AC,1.5,4,30,5,50000,10
+H3,Fridge,0.2,24,30,5,50000,10
+H3,TV,0.1,5,30,5,50000,10
+H3,Washing Machine,0.5,2,15,5,50000,10
+  
